@@ -111,10 +111,14 @@ Rm -r drinks
 
 
 ### Step 4
-
+Git init
+Git add .
+Git commit -m 'first commit'
 
 ### Step 5
-
+git remote add origin https://github.com/aniakouei/Practice-1.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
