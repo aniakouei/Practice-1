@@ -1,0 +1,123 @@
+### Step 2A
+/Users/avaniakouei
+
+### Step 2B
+ cd Desktop
+### Step 2C
+
+ cd unit1-git-practice
+### Step 2D
+ /Users/avaniakouei/Desktop/unit1-git-practice
+
+### Step 2E
+Ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd /Users
+pwd
+
+### Step 2H
+/Users
+
+### Step 2I
+total 0
+drwxr-xr-x   6 root         admin    192 Sep 15 22:47 .
+drwxr-xr-x  20 root         wheel    640 Sep 15 22:47 ..
+-rw-r--r--   1 root         wheel      0 Sep 15 22:47 .localized
+drwxr-xr-x+ 12 201          _guest   384 Jun  8  2018 Guest
+drwxrwxrwt  11 root         wheel    352 Oct 23 00:23 Shared
+drwxr-xr-x+ 44 avaniakouei  staff   1408 Jan 15 14:52 avaniakouei
+
+### Step 2J
+Cd ~
+pwd
+
+### Step 2K
+cd /Users/avaniakouei/Desktop/unit1-git-practice
+
+
+### Step 3A
+Mkdir veggies
+Mkdir meats
+Mkdir desserts
+ls
+
+### Step 3B
+mv desserts sweets
+Ls
+
+### Step 3C
+Mkdir proteins
+Ls
+
+### Step 3D
+Mv meats proteins
+Ls
+
+### Step 3E
+Cd veggies
+Touch carrot.txt
+Touch pea.txt
+Ls
+
+### Step 3F
+cd ..
+pwd
+cd sweets
+pwd
+touch cookie.txt
+ls
+
+### Step 3G
+Mv cookie.txt donut.txt
+
+### Step 3H
+Cd ..
+Touch thing.txt
+Ls
+
+### Step 3I
+Touch tofu.txt
+Cp thing.txt tofu.txt
+Ls
+
+### Step 3J
+Mv tofu.txt proteins
+
+### Step 3K
+touch crab.txt
+cp thing.txt crab.txt
+mv crab.txt proteins
+ls
+pwd
+cd proteins
+pwd
+mv crab.txt meats
+ls
+
+### Step 3L
+Cd ..
+Rm thing.txt
+
+### Step 3M
+Cp -r veggies plants
+
+### Step 3N
+Mkdir drinks
+Rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
